@@ -2,7 +2,7 @@
 
 [ipynb](https://github.com/Roman-K11/Portfolio/blob/d4620f0a4746736708d6107508eca5ddf2a425dc/Moscow%20Cafe/Cafe.ipynb)
 
-[Просмотр html](https://htmlpreview.github.io/?https://github.com/Roman-K11/Portfolio/blob/a16acf6750296b0667dd63b827637e70110674b7/Moscow%20Cafe/Cafe.html)
+[html](https://htmlpreview.github.io/?https://github.com/Roman-K11/Portfolio/blob/a16acf6750296b0667dd63b827637e70110674b7/Moscow%20Cafe/Cafe.html)
 
 ### Описание проекта
 Анализ клиентов банка и их сегментация для выявлении потенциальных сегментов, на которые стоит направить усилия, чтобы сократить отток клиентов.
