@@ -1,8 +1,8 @@
 ## Рынок заведений общественного питания Москвы
 
-[ipynb](https://github.com/Roman-K11/Portfolio/blob/a16acf6750296b0667dd63b827637e70110674b7/Moscow%20Cafe/Cafe.ipynb)
+[ipynb](https://github.com/Roman-K11/Portfolio/blob/d4620f0a4746736708d6107508eca5ddf2a425dc/Moscow%20Cafe/Cafe.ipynb)
 
-[Просмотр html с построенными картами](https://htmlpreview.github.io/?https://github.com/Roman-K11/Portfolio/blob/a16acf6750296b0667dd63b827637e70110674b7/Moscow%20Cafe/Cafe.html)
+[Просмотр html](https://htmlpreview.github.io/?https://github.com/Roman-K11/Portfolio/blob/a16acf6750296b0667dd63b827637e70110674b7/Moscow%20Cafe/Cafe.html)
 
 ### Описание проекта
 Инвесторы решили попробовать себя в новой области и открыть заведение общественного питания в Москве. Заказчики не знают, что это будет за место: кафе, ресторан, пиццерия, паб или бар, — и какими будут расположение, меню и цены. Проведено исследование рынка Москвы, найдены его особенности создана презентация полученных результатов, которая в поможет в выборе подходящего инвесторам места. Более подробно рассмотрены кофейни, на окрытие которой нацелен инвестор.
