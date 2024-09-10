@@ -1,6 +1,6 @@
 ##  Анализ бизнес показателей. Принятие решений на основе А/В тестов
 
-[ipynb](https://github.com/Roman-K11/Portfolio/blob/1df64f45de76873a53e58fc06a07ad549858828d/AB-test/AB-test.html)
+[ipynb](https://github.com/Roman-K11/Portfolio/blob/1df64f45de76873a53e58fc06a07ad549858828d/AB-test/AB-test.ipynb)
 
 [html](https://rawcdn.githack.com/Roman-K11/Portfolio/34d7c3334b13c9926f55a812030cae0689c7d6d1/AB-test/AB-test.html)
 
