@@ -2,7 +2,7 @@
 
 [ipynb](https://github.com/Roman-K11/Portfolio/blob/d4620f0a4746736708d6107508eca5ddf2a425dc/AB-test/AB-test.ipynb)
 
-[html](https://rawcdn.githack.com/Roman-K11/Portfolio/595c6a9363bf65ba8668e8d491e9db7c9c46e7dc/Segmentation/Segmentation.html)
+[html](https://rawcdn.githack.com/Roman-K11/Portfolio/34d7c3334b13c9926f55a812030cae0689c7d6d1/AB-test/AB-test.html)
 
 ### Описание проекта
 Анализ клиентов банка и их сегментация для выявлении потенциальных сегментов, на которые стоит направить усилия, чтобы сократить отток клиентов.
