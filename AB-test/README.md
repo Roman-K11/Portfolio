@@ -1,6 +1,6 @@
 ##  Анализ бизнес показателей. Принятие решений на основе А/В тестов
 
-[ipynb](https://github.com/Roman-K11/Portfolio/blob/d4620f0a4746736708d6107508eca5ddf2a425dc/Moscow%20Cafe/Cafe.ipynb)
+[ipynb](https://github.com/Roman-K11/Portfolio/blob/d4620f0a4746736708d6107508eca5ddf2a425dc/AB-test/AB-test.ipynb)
 
 [html](https://rawcdn.githack.com/Roman-K11/Portfolio/595c6a9363bf65ba8668e8d491e9db7c9c46e7dc/Segmentation/Segmentation.html)
 
