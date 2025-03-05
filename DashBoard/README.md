@@ -2,7 +2,7 @@
 
 Проект разработан для владельца компании Domino Home & Horeca с целью мониторинга ключевых бизнес-показателей через интерактивный дашборд в DataLens.
 
-https://github.com/user-attachments/assets/5b602404-96e0-4e8e-a3df-cf6a5c1fdae3
+<img src="images/D_1.1.jpg" alt="Описание изображения" width="49%"> <img src="images/D_1.2.jpg" alt="Описание изображения" width="49%">
 
 ## 📊 Функциональность
 Дашборд включает следующие визуализации:
@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/5b602404-96e0-4e8e-a3df-cf6a5c1fdae3
 - Адаптивные визуализации для анализа в разрезе месяцев, магазинов и товарных групп.
 - Инструмент оптимизирован для принятия стратегических решений.
 
-<img src="images/D_1.1.jpg" alt="Описание изображения" width="49%"> <img src="images/D_1.2.jpg" alt="Описание изображения" width="49%">
+https://github.com/user-attachments/assets/5b602404-96e0-4e8e-a3df-cf6a5c1fdae3
