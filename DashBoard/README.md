@@ -2,7 +2,7 @@
 
 Проект разработан для владельца компании Domino Home & Horeca с целью мониторинга ключевых бизнес-показателей через интерактивный дашборд в DataLens.
 
-https://github.com/user-attachments/assets/4324fa16-b470-4444-bec6-7f7bd4b8989b
+https://github.com/user-attachments/assets/5b602404-96e0-4e8e-a3df-cf6a5c1fdae3
 
 ## 📊 Функциональность
 Дашборд включает следующие визуализации:
