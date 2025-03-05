@@ -24,8 +24,9 @@
 ## 🛠 Технологический стек
 - `Python` (`Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Folium`)
 -  `SQL`, `PostgreSQL`, `MySQL`, `ClickHouse`
--  `Jupyter Notebook`, `Git`
 -  `Tableau`, `DataLens`  
+-  `Jupyter Notebook`
+-  `Git`
 
 ## 📬 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-Написать-blue?logo=telegram)](https://t.me/berlin113)  
