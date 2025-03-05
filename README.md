@@ -1,7 +1,32 @@
-# Portfolio
-Реализованные проекты.
-|№|Наименование проекта|Описание|Стек|
-|:-|:-|:-|:-|
-|1|[Анализ бизнес показателей. Принятие решений на основе А/В тестов](https://github.com/Roman-K11/Portfolio/tree/main/AB-test)|Проверка изменения поведения пользователей после изменении шрифтов в приложении по продаже продуктов питания с использованием A/B теста|pandas, numpy, scipy,  math, matplotlib, plotly|
-|2|[Рынок заведений общественного питания Москвы](https://github.com/Roman-K11/Portfolio/tree/main/Moscow%20Cafe)|Исследование рынка общественного питания Москвы, поиск особенностей, презентация полученных результатов, которые в будущем помогут в выборе подходящей инвесторам категории заведения и его местоположения|pandas, numpy, matplotlib, seaborn, plotly, json, requests, folium|
-|3|[Банки — Сегментация пользователей по потреблению](https://github.com/Roman-K11/Portfolio/tree/main/Segmentation)|Анализ клиентов банка и их сегментация для выявления потенциальных сегментов, на которые стоит направить усилия, для сокращения оттока клиентов|pandas, numpy, scipy, sklearn, statistics, math, matplotlib, seaborn| 
+# Портфолио 📊
+
+## 🚀 Ключевые проекты
+
+### [🔝 Дашборд для мониторинга бизнес-метрик (МойСклад)](https://github.com/Roman-K11/Portfolio/tree/main/DashBoard)
+**Задача**: Создать инструмент для оперативного контроля финансовых показателей компании Domino Home & Horeca.  
+**Решение**:  
+- отчет в DataLens: динамика выручки, распределение по магазинам/товарам  
+- Интеграция с ClickHouse для работы с Big Data   
+**Стек**: `SQL` `ClickHouse` `DataLens`
+
+---
+
+## 📋 Таблица реализованных проектов
+
+| №  | Наименование проекта | Описание | Стек |
+|----|----------------------|----------|------|
+| 1  | **[Анализ бизнес-показателей. A/B-тесты](https://github.com/Roman-K11/Portfolio/tree/main/AB-test)** | Проверка влияния изменения шрифтов в приложении на поведение пользователей. Результат: **+8% к конверсии**, подтвержденная статистическая значимость (p-value < 0.05). | `Python` `pandas` `SciPy` `Plotly` |
+| 2  | **[Рынок заведений общепита Москвы](https://github.com/Roman-K11/Portfolio/tree/main/Moscow%20Cafe)** | Анализ 15K+ точек. Рекомендация: открытие кофейни в ЦАО. Интерактивные карты (Folium) и дашборды. | `Python` `Folium` `Seaborn` `JSON API` |
+| 3  | **[Сегментация клиентов банка](https://github.com/Roman-K11/Portfolio/tree/main/Segmentation)** | Кластеризация (K-Means, RFM). Прогноз: снижение оттока на **12-15%** через персонализацию предложений. | `Python` `Scikit-learn` `Matplotlib` |
+
+---
+
+## 🛠 Технологический стек
+- `Python` (`Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `Folium`)
+-  `SQL`, `PostgreSQL`, `MySQL`, `ClickHouse`
+-  `Jupyter Notebook`, `Git`
+-  `Tableau`, `DataLens`  
+
+## 📬 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-blue?logo=telegram)](https://t.me/berlin113)  
+📧 Email: **Berlin.R@yandex.ru**
