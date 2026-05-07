@@ -1,6 +1,6 @@
 ## Банки — Сегментация пользователей по потреблению
 
-[ipynb](https://github.com/Roman-K11/Portfolio/blob/d4620f0a4746736708d6107508eca5ddf2a425dc/Segmentation/Segmentation.ipynb)
+[ipynb](https://github.com/Roman-K11/Portfolio/blob/1d43b5786ca321524fe10c71ab5913cc21bd7c12/Segmentation/Segmentation.ipynb)
 
 [html](https://rawcdn.githack.com/Roman-K11/Portfolio/595c6a9363bf65ba8668e8d491e9db7c9c46e7dc/Segmentation/Segmentation.html)
 
